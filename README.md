@@ -1,4 +1,6 @@
-# Global-Branch-Network-Infrastructure-Simulation
+# Global Branch Network Infrastructure Simulation
+
+![Network Topology](images/globalBranch.png)
 
 A Cisco Packet Tracer simulation of a multi-site enterprise network connecting the Semarang Office (Indonesia) and Tokyo Office (Japan).
 
